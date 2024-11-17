@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @MichaelBerry-CyberPro
-- 👀 I’m interested in ... Learning and Growing in Cyber Security
-- 🌱 I’m currently learning ... Linux and Python
-- 💞️ I’m looking to collaborate on .Any projects that could help me learn about cyber
-- 📫 How to reach me ... michaelberry_15@hotmail.com
+# Cybersecurity Portfolio
 
-<!---
-MichaelBerry-CyberPro/MichaelBerry-CyberPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my cybersecurity portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
+
+## Projects
+- **Network Security:** 
+  - Firewall configurations and network traffic analysis.
+- **Penetration Testing:**
+  - Vulnerability scanning and custom exploit scripts.
+- **Incident Response:**
+  - Forensic investigations and incident response planning.
+- **Automation:**
+  - Python scripts for log analysis and security monitoring.
+
+## Contact
+Feel free to connect with me for collaboration or job opportunities:  
+- **Email:** your.email@example.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)  
+- **Website:** [Your Personal Website](https://yourwebsite.com)  
