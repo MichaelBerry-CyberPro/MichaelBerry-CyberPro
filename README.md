@@ -15,5 +15,5 @@ Welcome to my cybersecurity portfolio! This repository showcases my projects, sk
 ## Contact
 Feel free to connect with me for collaboration or job opportunities:  
 - **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)  
+- **LinkedIn:** https://www.linkedin.com/in/michael-berry-93566819/
 - **Website:** [Your Personal Website](https://yourwebsite.com)  
