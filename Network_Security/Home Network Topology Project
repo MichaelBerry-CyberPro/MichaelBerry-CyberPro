@@ -1,12 +1,12 @@
 Home Network Configuration and Topology Documentation
 
 1. Overview / Objective
-This document outlines the configuration and architecture of my basic home network setup designed for learning and lab practice. It includes details on topology, device roles, IP schema, and security configurations.
+This document outlines the configuration and architecture of my home network setup designed for learning and lab practice. It includes details on topology, device roles, IP schema, and security configurations.
 
 2. Network Diagram
-(See Home Network Topology. jpec
+(See Home Network Topology.jpeg)
 
-3. Device List And Roles (I subbed IP and Mac Addesses Information Out) 
+3. Device List And Roles (I subbed IP and Mac Addess Information Out) 
 | Device Name  | Device Type  | IP Address    | MAC Address            | Role               |
 | ------------ | ------------ | ------------- | ---------------------- | ------------------ |
 | Router       | TP-Link AX10 | 192.168.1.1   | 00:1A:2B:3C:4D:5E      | Gateway, DHCP, DNS |
@@ -14,7 +14,7 @@ This document outlines the configuration and architecture of my basic home netwo
 | Laptop       | Windows 10   | 192.168.1.200 | 00:11:22:33:44:55      | Client Device      |
 | Smartphone   | Android      | DHCP Assigned | 12:34:56:78:90\:AB     | Wireless Client    |
 
-4.IP Addressing Scheme
+4.IP Addressing Scheme (I subbed out the Addess Information Out)
 Subnet: 192.168.1.0/24
 Gateway: 192.168.1.1
 DHCP Range: 192.168.1.100 - 192.168.1.150
@@ -36,7 +36,7 @@ Verified connectivity via ping and tracert (powershell)
 Verified DHCP leasing and DNS resolution
 Used nslookup and ipconfig for troubleshooting
 
-8. Lessons Learned / Improvements
+8. Lessons Learned / Further Enviroment Improvements 
 Consider setting up VLANs for better segmentation
 Plan to implement IDS/IPS with a pfSense VM
 Plan to test VPN tunneling for remote access
