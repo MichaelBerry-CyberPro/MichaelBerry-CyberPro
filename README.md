@@ -13,7 +13,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my projects, sk
   - Python scripts for log analysis and security monitoring.
 
 ## Contact
-Feel free to connect with me for collaboration or job opportunities:  
+Feel free to connect with me for Constructive Feedback or job opportunities:  
 - **Email:** Michaelberry_15@hotmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/michael-berry-93566819/
  
