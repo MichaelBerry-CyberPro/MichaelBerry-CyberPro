@@ -4,7 +4,7 @@ Home Network Configuration and Topology Documentation
 This document outlines the configuration and architecture of my basic home network setup designed for learning and lab practice. It includes details on topology, device roles, IP schema, and security configurations.
 
 2. Network Diagram
-
+(See Home Network Topology. jpec
 
 3. Device List And Roles (I subbed IP and Mac Addesses Information Out) 
 | Device Name  | Device Type  | IP Address    | MAC Address            | Role               |
@@ -15,8 +15,28 @@ This document outlines the configuration and architecture of my basic home netwo
 | Smartphone   | Android      | DHCP Assigned | 12:34:56:78:90\:AB     | Wireless Client    |
 
 4.IP Addressing Scheme
-
 Subnet: 192.168.1.0/24
 Gateway: 192.168.1.1
 DHCP Range: 192.168.1.100 - 192.168.1.150
 Static IPs: Reserved for servers and testing devices
+
+5. Router Configuration
+SSID: HomeLab_Network
+Encryption: WPA2-Personal
+Admin Password: Changed from default
+
+6. Security Measures
+Changed default login credentials on all devices
+Performed regular firmware updates
+Performed Updates on all Devices
+Unistall all Bloatware
+
+7. Testing and Validation
+Verified connectivity via ping and tracert (powershell)
+Verified DHCP leasing and DNS resolution
+Used nslookup and ipconfig for troubleshooting
+
+8. Lessons Learned / Improvements
+Consider setting up VLANs for better segmentation
+Plan to implement IDS/IPS with a pfSense VM
+Plan to test VPN tunneling for remote access
