@@ -5,4 +5,17 @@ This document outlines the configuration and architecture of my basic home netwo
 
 2. Network Diagram
 
-Device List And Roles
+3. Device List And Roles (I subbed IP and Mac Addesses Information Out) 
+| Device Name  | Device Type  | IP Address    | MAC Address            | Role               |
+| ------------ | ------------ | ------------- | ---------------------- | ------------------ |
+| Router       | TP-Link AX10 | 192.168.1.1   | 00:1A:2B:3C:4D:5E      | Gateway, DHCP, DNS |
+| Desktop      | Windows 10   | 192.168.1.100 | 00\:AA\:BB\:CC\:DD\:EE | Client Device      |
+| Laptop       | Windows 10   | 192.168.1.200 | 00:11:22:33:44:55      | Client Device      |
+| Smartphone   | Android      | DHCP Assigned | 12:34:56:78:90\:AB     | Wireless Client    |
+
+4.IP Addressing Scheme
+
+Subnet: 192.168.1.0/24
+Gateway: 192.168.1.1
+DHCP Range: 192.168.1.100 - 192.168.1.150
+Static IPs: Reserved for servers and testing devices
