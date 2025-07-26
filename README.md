@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
+Welcome to my portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
 
 ## Projects
 - **Security Project: Azure Cloud Security Monitoring with Splunk Integration**
