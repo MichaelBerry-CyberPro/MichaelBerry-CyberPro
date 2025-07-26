@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Portfolio
 
 Welcome to my cybersecurity portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
 
