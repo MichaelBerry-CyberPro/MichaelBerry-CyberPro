@@ -3,14 +3,8 @@
 Welcome to my cybersecurity portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
 
 ## Projects
-- **Network Security:** 
-  - Firewall configurations and network traffic analysis.
-- **Penetration Testing:**
-  - Vulnerability scanning and custom exploit scripts.
-- **Incident Response:**
-  - Forensic investigations and incident response planning.
-- **Automation:**
-  - Python scripts for log analysis and security monitoring.
+- **Security Project: Azure Cloud Security Monitoring with Splunk Integration**
+
 
 ## Contact
 Feel free to connect with me for Constructive Feedback or job opportunities:  
