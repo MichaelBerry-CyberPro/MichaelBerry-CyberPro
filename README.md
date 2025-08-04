@@ -1,4 +1,3 @@
-# Hi, I'm Michael Berry
 
 # Portfolio
 
