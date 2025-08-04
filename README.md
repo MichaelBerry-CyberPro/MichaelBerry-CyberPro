@@ -1,4 +1,4 @@
-Hi I'm Michael Berry
+# Hi, I'm Michael Berry
 
 # Portfolio
 
