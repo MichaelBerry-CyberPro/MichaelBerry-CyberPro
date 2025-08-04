@@ -1,13 +1,13 @@
-Overview: I created a basic home Soc from scratch. Using created a Azure subcription, opened up a new VM, opened that VM as a honeypot, and forward those logs to a central location. Finally using that info to build a map analyzing real world attacks.
+Overview: I created a basic home Soc from scratch. Using created a Azure subcription, opened up a new VM, opened that VM as a honeypot, and forward those logs to a central location. Finally using that info to build a map analyzing real world attacks. This project is great for beginners and professionals looking to practice log analysis, threat dectection, and Soc operations within a real world cloud.
 
-<h1>Tools used:<h1>
+</h1>Tools used:</h1>
 1) Azure VM
 2) Azure Setinel
 3) Azure Analytics
 4) Network Security Groups
 5) Nmap
 
-Skills learned:
+<h2>Skills learned:
 KQL Language
 Azure infrastructure
 Network Configuration
@@ -18,3 +18,4 @@ Threat Hunting and Dectection
 Workbook and Dashboard creation
 
 Step 1: Opening and configuring my VM 
+Open up a new in VM, you are able to set up a free trial or pay-as-you-go instance. If you choose pay-as-you-go keep it cheap we can use a bare bones VM and still complete our goal. P
