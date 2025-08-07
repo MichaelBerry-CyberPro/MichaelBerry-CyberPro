@@ -6,6 +6,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 ## Projects
 - **Security Project: Azure Cloud Security Monitoring with Sentinel Integration**
 - **Nessus Vulnerability Management Project**
+- **Active Directory Domain Setup** (In progress)
 
 ## Contact
 Feel free to connect with me for Constructive Feedback or job opportunities:  
