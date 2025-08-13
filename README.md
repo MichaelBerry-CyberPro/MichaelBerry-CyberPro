@@ -4,9 +4,9 @@
 Welcome to my portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
 
 ## Projects
-- **Security Project: Azure Cloud Security Monitoring with Sentinel Integration**
-- **Nessus Vulnerability Management Project**
-- **Active Directory Domain Setup** (In progress)
+- [**Security Project: Azure Cloud Security Monitoring with Sentinel Integration**](https://github.com/MichaelBerry-CyberPro/Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration)
+- [**Nessus Vulnerability Management Project**](https://github.com/MichaelBerry-CyberPro/Nessus-Vulnerability-Management-Project-)
+- [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup)
 
 ## Contact
 Feel free to connect with me for Constructive Feedback or job opportunities:  
