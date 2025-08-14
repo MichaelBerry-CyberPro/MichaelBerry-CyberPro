@@ -3,11 +3,15 @@
 
 Welcome to my portfolio! This repository showcases my projects, skills, and expertise in various areas of cybersecurity. Below is an overview of the types of projects included:
 
-## Projects
+## Soc Analyst Projects
 - [**Security Project: Azure Cloud Security Monitoring with Sentinel Integration**](https://github.com/MichaelBerry-CyberPro/Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration)
 - [**Nessus Vulnerability Management Project**](https://github.com/MichaelBerry-CyberPro/Nessus-Vulnerability-Management-Project-)
 - [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup)
 
+## Python Projects 
+- **Keylogger**
+
+  
 ## Contact
 Feel free to connect with me for Constructive Feedback or job opportunities:  
 - **Email:** Michaelberry_15@hotmail.com  
