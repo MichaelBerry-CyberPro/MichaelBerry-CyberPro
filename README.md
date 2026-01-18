@@ -8,6 +8,9 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 - [**Nessus Vulnerability Management Project**](https://github.com/MichaelBerry-CyberPro/Nessus-Vulnerability-Management-Project-)
 - [**Active Directory Domain Controller w/Client Setup**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup)
 
+## Linux Labs
+- [**Linux File Permission**]
+
 ## Active Directory Projects
  - [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-)
 
