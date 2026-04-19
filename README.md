@@ -21,6 +21,5 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 ## Contact
 Feel free to connect with me for Constructive Feedback or job opportunities:  
 - **Email:** Michaelberry_15@hotmail.com  
-- **LinkedIn:** [www.linkedin.com/in/michael-berry1](https://www.linkedin.com/in/michael-berry1/)
-- **Medium** https://medium.com/@michaelberry01
+
  
