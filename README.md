@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 - [**Active Directory Domain Controller w/Client Setup**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup)
 
 ## Linux Labs
-- [**Linux File Permission**]
+- [**Linux File Permission**](https://github.com/MichaelBerry-CyberPro/Linux-File-Permissions-Lab)
 
 ## Active Directory Projects
  - [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-)
