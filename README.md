@@ -6,10 +6,15 @@ My work focuses on simulating real enterprise scenarios—from identifying and r
 
 ## Core Skills
 Vulnerability Management (Nessus)
+
 Active Directory & User Management
+
 Security Monitoring & Log Analysis (Splunk)
+
 Basic Cloud Security (Microsoft Azure)
+
 Incident Response Fundamentals# Portfolio
+
 
 ## Soc Analyst Projects
 - [**Security Project: Azure Cloud Security Monitoring with Sentinel Integration**](https://github.com/MichaelBerry-CyberPro/Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration)
