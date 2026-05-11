@@ -21,11 +21,11 @@ Incident Response Fundamentals# Portfolio
 - [**Nessus Vulnerability Management Project**](https://github.com/MichaelBerry-CyberPro/Nessus-Vulnerability-Management-Project-)
 - [**Active Directory Domain Controller w/Client Setup**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup)
 
+## IT Specialist Projects
+ - [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-)
+
 ## Linux Labs
 - [**Linux File Permission**](https://github.com/MichaelBerry-CyberPro/Linux-File-Permissions-Lab)
-
-## Active Directory Projects
- - [**Active Directory**](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-)
 
 ## Python Projects 
 - [**Keylogger**](https://github.com/MichaelBerry-CyberPro/Keylogger-/blob/main/README.md)
